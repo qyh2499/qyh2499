@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @qyh2499
-- 👀 I’m interested in Finance and Technology
+- 👋 Hi, I’m @qyh2499. 
+- 👀 I’m interested:
+- Finance and Technology
 - 🌱 I’m currently learning at University of Waterloo
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
