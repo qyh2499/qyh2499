@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @qyh2499. 
+- 👋 Hi, I’m @qyh2499 or John Huang. 
 - 👀 I’m interested:
-  - FinTech: quantitative analysis and big data
+  - FinTech: quantitative and big data
+  - Quantitative strategies in investing
 - 🌱 I’m currently studying at University of Waterloo: double major degree in Computer Science and Finance
 - 💞️ I’m looking to collaborate on
   - Financially related coding projects
