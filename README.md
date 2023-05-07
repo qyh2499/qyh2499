@@ -4,7 +4,7 @@
   - Quantitative strategies in investing
 - 🌱 I’m currently studying at University of Waterloo: double major degree in Computer Science and Finance
 - 💞️ I’m looking to collaborate on
-  - Financially related coding projects
+  - Quantative Financial Model Building, Factor Models, etc.
 - 📫 How to reach me
   - qyh2499@gmail.com 
 
