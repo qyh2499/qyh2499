@@ -6,6 +6,8 @@
 - 🌱 I’m currently studying at University of Waterloo: double major degree in Computer Science and Mathematical Finance
 - 💞️ I’m looking to collaborate on
   - Quantative Financial Model Building, Factor Models
+  - Fundamental Equity Research tools implementations
+  - Market making tools and strategies
   - High/Mid frequency trading algo
 - 📫 How to reach me
   - qyh2499@gmail.com
